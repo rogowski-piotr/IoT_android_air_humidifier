@@ -1,5 +1,5 @@
 # Android Air Humidifier Client
-Android aplication as a client connect with the server in [air humidifier](https://github.com/rogowski-piotr/IoT_air_humidifier) and send the setted humidity value. Response measured data from controller module  in [air humidifier](https://github.com/rogowski-piotr/IoT_air_humidifier) via server in Json fromat. Client converting data and displaying it or if any problems occurs eg. error in communication between modules, will also list them to the screen.
+Android aplication as a client connect with the server in [air humidifier](https://github.com/rogowski-piotr/IoT_air_humidifier) and send the set humidity value. Response measured data from controller module  in [air humidifier](https://github.com/rogowski-piotr/IoT_air_humidifier) via server in Json fromat. Client converting data and displaying it or if any problems occurs eg. error in communication between modules, will also list them to the screen.
 
 ## Hardware Requirements
 - Android device with SDK 26 or above
